@@ -10,6 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
+            android:name=".BuscadorClass" android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".ListViewAdapter" android:screenOrientation="portrait"></activity>
+        <activity
             android:name=".Doce" android:screenOrientation="portrait"></activity>
         <activity
             android:name=".Once" android:screenOrientation="portrait"></activity>
